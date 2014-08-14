@@ -1,0 +1,8 @@
+{
+    "require" : {
+        "phpoffice/phppowerpoint": "dev-develop"
+    },
+    "config": {
+        "preferred-install": "source"
+    }
+}
